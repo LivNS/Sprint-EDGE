@@ -36,8 +36,10 @@ Eficiência Energética: O sistema prioriza o uso de energia solar, alternando p
 <li>Integração com o backend para receber e enviar dados.</li>
 
 <h2>Imagens do Figma e link do site</h2>
-<img![Captura de tela 2023-11-12 202915]/>
-<img![Captura de tela 2023-11-12 202802](https://github.com/LivNS/Sprint-EDGE/assets/118857876/4c08a0c2-49f8-4258-a626-3d54dfa55e6a)/>
+![Captura de tela 2023-11-12 202915](https://github.com/LivNS/Sprint-EDGE/assets/118857876/6a72c018-971a-4634-9a4d-6af4dea5a489)
+
+![Captura de tela 2023-11-12 202802](https://github.com/LivNS/Sprint-EDGE/assets/118857876/d6438cb2-5c13-4a35-add9-62f899cb383b)
+
 <li>https://www.figma.com/file/gG4JUpiX0T9tkbEwR8UC16/Ecollumia?type=design&node-id=0-1&mode=design&t=PD8zvRU0YvMqOSul-0</li>
 
 <h2>Colaboradores</h2>
