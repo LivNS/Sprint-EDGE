@@ -36,6 +36,7 @@ Eficiência Energética: O sistema prioriza o uso de energia solar, alternando p
 <li>Integração com o backend para receber e enviar dados.</li>
 
 <h2>Imagens do Figma e link do site</h2>
+
 ![Captura de tela 2023-11-12 202915](https://github.com/LivNS/Sprint-EDGE/assets/118857876/6a72c018-971a-4634-9a4d-6af4dea5a489)
 
 ![Captura de tela 2023-11-12 202802](https://github.com/LivNS/Sprint-EDGE/assets/118857876/d6438cb2-5c13-4a35-add9-62f899cb383b)
