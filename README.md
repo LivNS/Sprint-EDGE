@@ -33,9 +33,12 @@ Eficiência Energética: O sistema prioriza o uso de energia solar, alternando p
 <h3>Front-end</h3>
 <li>Interface web (HTML, CSS, JavaScript).</li>
 <li>Framework de desenvolvimento (React).</li>
-<li>Gráficos em tempo real (Chart.js).</li>
 <li>Integração com o backend para receber e enviar dados.</li>
 
+<h2>Imagens do Figma e link do site</h2>
+<img![Captura de tela 2023-11-12 202915](https://github.com/LivNS/Sprint-EDGE/assets/118857876/08f4816a-0e0b-4ece-b0f3-71292a93c54b)>
+<img![Captura de tela 2023-11-12 202802](https://github.com/LivNS/Sprint-EDGE/assets/118857876/4c08a0c2-49f8-4258-a626-3d54dfa55e6a)>
+<li>https://www.figma.com/file/gG4JUpiX0T9tkbEwR8UC16/Ecollumia?type=design&node-id=0-1&mode=design&t=PD8zvRU0YvMqOSul-0</li>
 
 <h2>Colaboradores</h2>
 <li>Debora da Silva Amaral RM 550412</li>
